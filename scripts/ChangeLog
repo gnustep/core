@@ -1,0 +1,23 @@
+2016-06-28 16:10-EDT Gregory John Casamento <greg.casamento@gmail.com>
+
+	* install-dependencies-msys2-64bit: Minor spelling correction
+
+2016-06-12 04:13-EDT Gregory John Casamento <greg.casamento@gmail.com>
+
+	* clang-setup: Separate build and install
+	* compile-all: Preserve environment for clang build.
+
+2016-05-31 19:42-EDT Gregory John Casamento <greg.casamento@gmail.com>
+
+	* compile-all: Add -j8 option to speed up the build.
+
+2016-05-03 17:08-EDT Gregory John Casamento <greg.casamento@gmail.com>
+
+	* configs/objc.cfg
+	* objc.cfg: Move to configs dir
+
+2016-05-02 23:17-EDT Gregory John Casamento <greg.casamento@gmail.com>
+
+	* clang-setup: Add
+	* compile-all: Get the latest
+

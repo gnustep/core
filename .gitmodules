@@ -1,0 +1,12 @@
+[submodule "gui"]
+	path = gui
+	url = git@github.com:gnustep/libs-gui
+[submodule "base"]
+	path = base
+	url = git@github.com:gnustep/libs-base
+[submodule "back"]
+	path = back
+	url = git@github.com:gnustep/libs-back
+[submodule "make"]
+	path = make
+	url = git@github.com:gnustep/tools-make
